@@ -1,4 +1,6 @@
-# General Information
+# ERPNext Training
+
+## General Information
 
 - [รายละเอียด (PDF)](./ERP_Training.pdf)
 
@@ -8,7 +10,7 @@
 
 - [การเปิดบริการ Google Cloud Service (VDO)](https://youtu.be/SuK4jwIFTdY)
 
-# Topics
+## Topics
 
 1. [Setting Up](https://scribehow.com/page/ERPNext_Training_Day_1-1_Setting_Up__eRCDUAtvQaiVUgXV_Cz_Qg)
 
@@ -23,3 +25,5 @@
 6. [Point of Sale](https://scribehow.com/page/ERPNext_Training_6_Point_of_Sale__Pjpev80WQiyMdLSWPMtrUQ?referrer=documents)
 
 7. [Manufacturing](https://scribehow.com/page/ERPNext_Training_7_Manufacturing__Cu1eXv50S6qjfts0VL3xUw?referrer=documents)
+
+8. [HR](https://scribehow.com/page/ERPNext_Training_8_HR__bl81JzszRMuIoJOaCSBEDQ)
