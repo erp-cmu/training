@@ -17,3 +17,7 @@
 4. [Sale](https://scribehow.com/page/ERPNext_Training_4_Sale__XXbrBh_sRFegtgQw7j9UHw?referrer=documents)
 
 5. [Inventory](https://scribehow.com/page/ERPNext_Training_5_Inventory__x081qrrET8GZHF8E9FS5bw?referrer=documents)
+
+6. [Point of Sale](https://scribehow.com/page/ERPNext_Training_6_Point_of_Sale__Pjpev80WQiyMdLSWPMtrUQ?referrer=documents)
+
+7. [Manufacturing](https://scribehow.com/page/ERPNext_Training_7_Manufacturing__Cu1eXv50S6qjfts0VL3xUw?referrer=documents)
