@@ -1,6 +1,4 @@
-# การอบรมซอฟต์แวร์สำหรับการวางแผนการจัดการองค์กร (ERPNext)
-
-## General Information
+# General Information
 
 - [รายละเอียด (PDF)](./ERP_Training.pdf)
 
@@ -10,7 +8,7 @@
 
 - [การเปิดบริการ Google Cloud Service (VDO)](https://youtu.be/SuK4jwIFTdY)
 
-## Topics
+# Topics
 
 1. [Setting Up](https://scribehow.com/page/ERPNext_Training_Day_1-1_Setting_Up__eRCDUAtvQaiVUgXV_Cz_Qg)
 
