@@ -4,6 +4,10 @@
 
 - [รายละเอียด (PDF)](./ERP_Training.pdf)
 
+- [เอกสารการอบรม (PowerPoint)](https://o365cmu-my.sharepoint.com/:f:/g/personal/nirand_p_cmu_ac_th/Emk1uNRDMDZLkMUdgCH87n4Bsa6pEvQVJyTIKNG7RryOjQ?e=qgFBQc)
+
+- [วีดีโอ (Youtube)](https://youtube.com/playlist?list=PLNGLpHQhvGrsGu19Jfgu3N7t_E8dtGvPF&si=9LN0UyYAJEiXEy7T)
+
 - [การเปิดบริการ Google Cloud Service (VDO)](https://youtu.be/SuK4jwIFTdY)
 
 ## Topics
