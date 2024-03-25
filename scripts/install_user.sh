@@ -1,9 +1,7 @@
 # Description: Install Frappe and ERPNext on Ubuntu 22.04-jammy
 # Part 2: Run as user
 
-# Node.js 18
-curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
-source ~/.profile
+# Node.js 18 with NVM
 nvm install 18
 nvm use 18
 
