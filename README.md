@@ -27,3 +27,5 @@
 7. [Manufacturing](https://scribehow.com/page/ERPNext_Training_7_Manufacturing__Cu1eXv50S6qjfts0VL3xUw?referrer=documents)
 
 8. [HR](https://scribehow.com/page/ERPNext_Training_8_HR__bl81JzszRMuIoJOaCSBEDQ)
+
+9. [Setting Up ERPNext on GCP](https://pcniuzfskz.joplinusercontent.com/shares/or2IwA0bJqagVaNb3KqDsD)

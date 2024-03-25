@@ -14,3 +14,4 @@ sudo ln -sf $HOME/erp/config/supervisor.conf /etc/supervisor/conf.d/frappe-bench
 sudo supervisorctl reread
 sudo supervisorctl update
 sudo supervisorctl status
+sudo service nginx reload
