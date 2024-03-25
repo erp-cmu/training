@@ -56,12 +56,3 @@ export NODE_VERSION=$(ls $NVM_DIR/versions/node)
 ln -s "$NVM_DIR/versions/node/$NODE_VERSION/bin/node" "/usr/local/bin/node"
 
 pip3 install frappe-bench
-cd ~
-bench init erp --frappe-branch version-15
-
-cd ~/erp
-bench new-site mysite
-
-bench get-app erpnext --branch version-15
-
-bench get-app hrms --branch version-15
