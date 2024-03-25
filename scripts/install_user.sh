@@ -25,3 +25,5 @@ bench get-app erpnext --branch version-15
 
 # Install HRMS
 bench get-app hrms --branch version-15
+
+cd ~/erp
