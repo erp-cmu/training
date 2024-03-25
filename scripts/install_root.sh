@@ -15,7 +15,6 @@ sudo apt-get install xvfb libfontconfig wkhtmltopdf -y
 # Redis
 sudo apt-get install redis-server -y
 
-
 # DB
 sudo apt-get install software-properties-common -y
 sudo apt install mariadb-server mariadb-client -y
