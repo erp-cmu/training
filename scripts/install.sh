@@ -9,10 +9,18 @@ apt install supervisor -y
 sudo apt-get install python3-dev python3.10-dev python3-setuptools python3-pip python3-distutils -y
 sudo apt-get install python3.10-venv -y
 
+# Etc
+sudo apt-get install xvfb libfontconfig wkhtmltopdf -y
+
+# Redis
+sudo apt-get install redis-server -y
+
+
 # DB
-sudo apt-get install software-properties-common
-sudo apt install mariadb-server mariadb-client
-sudo apt-get install libmysqlclient-dev
+sudo apt-get install software-properties-common -y
+sudo apt install mariadb-server mariadb-client -y
+sudo apt-get install libmysqlclient-dev -y
+
 
 # Auto running >>mysql_secure_installation
 # Make sure that NOBODY can access the server without a password
@@ -38,3 +46,22 @@ default-character-set = utf8mb4
 EOT
 
 service mysql restart
+
+curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+source ~/.profile
+nvm install 18
+nvm use 18
+npm install -g yarn
+export NODE_VERSION=$(ls $NVM_DIR/versions/node)
+ln -s "$NVM_DIR/versions/node/$NODE_VERSION/bin/node" "/usr/local/bin/node"
+
+pip3 install frappe-bench
+cd ~
+bench init erp --frappe-branch version-15
+
+cd ~/erp
+bench new-site mysite
+
+bench get-app erpnext --branch version-15
+
+bench get-app hrms --branch version-15
