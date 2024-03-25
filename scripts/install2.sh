@@ -8,7 +8,7 @@ sudo ln -s "$NVM_DIR/versions/node/$NODE_VERSION/bin/node" "/usr/local/bin/node"
 
 sudo pip3 install frappe-bench
 
-# cd ~
+cd ~
 # bench init erp --frappe-branch version-15
 # cd ~/erp
 # bench new-site mysite
