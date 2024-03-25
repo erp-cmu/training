@@ -1,3 +1,6 @@
+# Description: Install Frappe and ERPNext on Ubuntu 22.04-jammy
+# Part 1: Run as root
+
 apt-get update -y
 apt-get upgrade -y
 timedatectl set-timezone "Asia/Bangkok"
