@@ -28,4 +28,4 @@
 
 8. [HR](https://scribehow.com/page/ERPNext_Training_8_HR__bl81JzszRMuIoJOaCSBEDQ)
 
-9. [Setting Up ERPNext on GCP](https://pcniuzfskz.joplinusercontent.com/shares/or2IwA0bJqagVaNb3KqDsD)
+9. [Setting Up ERPNext on GCP](https://scribehow.com/page/Setting_up_ERPNext_in_GCP__MV54w49QT0SM70xlvGxXYA)
