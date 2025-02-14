@@ -1,18 +1,14 @@
-# การฝึกอบรมหลักสูตร Dev With ERPNext For The Future
-
-- 15-16 February 2025
-- สนับสนุนโดยกองพัฒนาดิจิทัลอุตสาหกรรม กรมส่งเสริมอตสาหกรรม
-- อนุเคราะห์สถานที่อบรมโดย สถานีโทรทัศน์ไทยพีบีเอส
+# ERPNext Training
 
 ## General Information
 
-- [เอกสารการอบรม](https://drive.google.com/drive/folders/1keZp5DTJwzJ9HYxKVEbBVRrtQhandH63?usp=sharing)
+- [รายละเอียด (PDF)](./ERP_Training.pdf)
 
-- [วีดีโอ (Youtube)](https://youtu.be/OwwMOegWQF4?si=cZFfLM-Q2gz8WXPq)
+- [เอกสารการอบรม (PowerPoint)](https://o365cmu-my.sharepoint.com/:f:/g/personal/nirand_p_cmu_ac_th/Emk1uNRDMDZLkMUdgCH87n4Bsa6pEvQVJyTIKNG7RryOjQ?e=qgFBQc)
 
-- [การติดตั้ง ERPNext](https://discuss.frappe.io/t/erpnext-training-thailand-feb-2025-installation-guide/142055)
+- [วีดีโอ (Youtube)](https://youtube.com/playlist?list=PLNGLpHQhvGrsGu19Jfgu3N7t_E8dtGvPF&si=9LN0UyYAJEiXEy7T)
 
-- [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/844RxGB62Bm)
+- [การเปิดบริการ Google Cloud Service (VDO)](https://youtu.be/SuK4jwIFTdY)
 
 ## Topics
 
